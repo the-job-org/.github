@@ -1,6 +1,6 @@
 [![TheJob](https://github.com/the-job-org/.github/blob/main/thejob.png)](https://github.com/the-job-org)
 
-# The Job 社区，企才互联的桥梁
+# The Job 社区，连接企业服务与人才发展的桥梁，为企业提供优质人才资源，为人才开拓无限职场舞台
 
 让企业与人才无缝对接，让每一次职场选择都更从容！
 
