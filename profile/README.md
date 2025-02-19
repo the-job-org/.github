@@ -11,7 +11,6 @@
 - Telegram: https://t.me/+cC9DSRce2cg3Zjg9
 - 小红书：4295257948
 - 微信：TheJobOrg
-- Discord:
 - 微信公众号: 
 - B 站:
 - YouTube: 
