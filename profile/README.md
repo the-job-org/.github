@@ -1,3 +1,5 @@
+[![TheJob](https://github.com/the-job-org/.github/blob/main/thejob.png)](https://github.com/the-job-org)
+
 # The Job 社区，企才互联的桥梁
 
 让企业与人才无缝对接，让每一次职场选择都更从容！
